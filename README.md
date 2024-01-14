@@ -1,4 +1,4 @@
-### Hi, this is @A-JiuA, I have changed my username to @Lyxot
+### Hi, this is @A-JiuA, I have changed my username to [@Lyxot](https://github.com/Lyxot)
 
 <!--
 **A-JiuA/A-JiuA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
